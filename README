@@ -1,0 +1,10 @@
+This is the begininng of JavaScript Project: List Program
+
+6/7/2025
+What you've done so far is forked tha repo and cloned it to your local machine.
+You haven't made any changes yet, but you have the project set up and ready to go.
+
+6/10/2025
+You left off trying to figure out how to move the "Submit" button. It needs to be positioned below the search bar. You were looking through the CSS file and comparing it to Austin's code.
+
+Also, either container or container2 needs to be moved closer there’s too much space between them. Lastly, the "Submit" button needs to be wider.
